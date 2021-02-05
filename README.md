@@ -15,3 +15,7 @@
 
 ## 例：https://cdn.jsdelivr.net/gh/ITJoker233/BingPicApi/json/20200312.json
 > https://cdn.jsdelivr.net/gh/ITJoker233/BingPicApi/json/日期.json
+
+
+
+#改
