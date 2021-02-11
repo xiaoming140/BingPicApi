@@ -5,7 +5,7 @@ on:
     branches: 
       - master
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 16,03 * * *'
 jobs:
   Bing-spider:
     runs-on: ubuntu-latest
